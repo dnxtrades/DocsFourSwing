@@ -84,4 +84,5 @@ FourSwing is under active development with a focus on stability, usability and s
 
 Four Markets. One Tokenized Platform.
 
-Join the waitlist: fourswing.xyz
+[Join the Waitlist](https://fourswing.xyz)
+
